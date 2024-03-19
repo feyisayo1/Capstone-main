@@ -8,7 +8,7 @@
   width: 45%;
   height: 100%;
   display: flex;
-  background: url(/public/pic7.jpeg) no-repeat center center;
+  background: url("../../../public/pic7.jpeg") no-repeat center center;
   background-size: cover;
 }
 #sign-up > .a > div {
